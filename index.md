@@ -1,7 +1,7 @@
 ---
 format: default
 ---
-# Scientist's Prayer
+# A Prayer for Scientists
 
 *Baruch Ata Adonai, Eloheinu Chei Haolamim, Pokeach Ivrim*
 Blessed are you, Our God, Life of all the Worlds, who opens the eyes of the blind.
