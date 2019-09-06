@@ -23,4 +23,5 @@ implications of my discoveries. May my contributions ultimately be for the great
 world in which we live.
 
 May I continually discern Your presence in my work as scientist.
+
 [Rabbi Malkah Binah Klein](https://www.thrivingspirit.org/about)
