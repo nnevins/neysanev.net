@@ -3,7 +3,7 @@ description: Computational Chemist @ GSK
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot
-twitter: neysanev
+mastodon: @neysanev@mastodon.online
 google_s: icxNpvYAAAAJ
 orchid: 0000-0003-2378-7283
 exclude: readme.md
